@@ -4,6 +4,8 @@ Determining the quality of red wine and white wine. Quality is determined by pro
 
 If the 11 features are given then we can predict the quality or the rating of the wine.
 
+Dataset https://drive.google.com/drive/u/2/folders/1u6DMLZTnisWKYxfakwRNkQHUe4zdBF58
+
 In the dataset there are data for red wine and white wine.
 
 I have trained the model using Random Forest and SVR and I have compared the models.
