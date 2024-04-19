@@ -4,8 +4,8 @@ Determining the quality of red wine and white wine. Quality is determined by pro
 
 In the dataset there are data for red wine and white wine.
 
-I have trained the model using Random Forest and SVR and I have compared the model.
+I have trained the model using Random Forest and SVR and I have compared the models.
 
 I have found the importance of each feature used in the model.
 
-Details and my observations regarding the model are given in the text cell in the code itself.
+Details and my observations found from the model are given in the text cell in the code itself.
