@@ -1,2 +1,11 @@
 # Wine-Quality
-Determining the quality of red wine and white wine
+
+Determining the quality of red wine and white wine. Quality is determined by providing a rating to the wine based upon 11 features.
+
+In the dataset there are data for red wine and white wine.
+
+I have trained the model using Random Forest and SVR and I have compared the model.
+
+I have found the importance of each feature used in the model.
+
+Details and my observations regarding the model are given in the text cell in the code itself.
